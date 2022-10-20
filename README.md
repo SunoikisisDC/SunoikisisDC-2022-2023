@@ -11,6 +11,10 @@ SunoikisisDC is a massively collaborative, international and open teaching progr
    * Summer 2022: Sunoikisis Digital Classics, tba
 
 ***
+#### Other activities
+Thanks to the generous support of the [Digitale Lehre](https://www.zls.uni-leipzig.de/newsdetail/artikel/projektfoerderung-digitale-lehre-innovativ-und-vernetzt-2022-10-10) initiative at the University of Leipzig in WS 2022/23, we are also working on a [Zotero Group](https://www.zotero.org/groups/4303839/sunoikisisdc) to list all our bibliographic resources and on a database to collect information about each session of the program.
+
+***
 #### Partnership
 Starting from 2019 and as part of a long established collaboration, SunoikisisDC is a project partner of the Pelagios Network ([Pedagogy](https://pelagios.org/activities/pedagogy/)) to support the use of linked data in education and cultural heritage. Our representative to the Pelagios Network is co-organizer Valeria Vitale.
 
