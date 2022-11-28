@@ -12,7 +12,7 @@ SunoikisisDC is a massively collaborative, international and open teaching progr
 
 ***
 #### Other activities
-Thanks to the generous support of the [Digitale Lehre](https://www.zls.uni-leipzig.de/newsdetail/artikel/projektfoerderung-digitale-lehre-innovativ-und-vernetzt-2022-10-10) initiative at the University of Leipzig in WS 2022/23, two students are working on a [Zotero Group Library](https://www.zotero.org/groups/4303839/sunoikisisdc) to list all our bibliographic resources (Aron Teuscher) and on a database to collect information about each session of the program (Susanne Heydecke).
+Thanks to the generous support of the [Digitale Lehre](https://www.zls.uni-leipzig.de/newsdetail/artikel/projektfoerderung-digitale-lehre-innovativ-und-vernetzt-2022-10-10) initiative at Leizpig University in WS 2022/23, two students are working on a [Zotero Group Library](https://www.zotero.org/groups/4303839/sunoikisisdc) to list all our bibliographic resources (Aron Teuscher) and on a database to collect information about each session of the program (Susanne Heydecke).
 
 ***
 #### Partnership
